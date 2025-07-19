@@ -1,5 +1,4 @@
-# Url-shortner
-This is url shortner basically genrates short links 
+
 # Scalable URL Shortener 🚀
 
 A high-performance URL shortening service built with **Node.js**, **Express**, and **MongoDB**, enhanced with **Redis** caching for ultra-fast redirects and **Apache Kafka** for asynchronous analytics.
